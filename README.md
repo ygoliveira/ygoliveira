@@ -15,4 +15,4 @@
 ## 📈 My GitHub Stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygoliveira&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygoliveira&layout=compact&theme=gotham)](https://github.com/ygoliveira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygoliveira&layout=compact&theme=gotham&hide_border=true)](https://github.com/ygoliveira/github-readme-stats)
