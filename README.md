@@ -6,11 +6,9 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ygoliveira)
 
 - 🔭 I’m currently working on Java and new technologies :man_technologist:
-- 🌱 I’m currently learning Typescript, Javascript and ReactJS
+- 🌱 I’m currently learning Typescript, Javascript and Angular
 - 👯 I try to collaborate on projects and what I can add
-- 🤔 I'm looking for a job, please help me ❗
 - 😄 Pronouns: **[He/Him](https://pronoun.is/he)**
-- ⚡ Fun fact: I don't have nothing funny
 
 ## 📈 My GitHub Stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygoliveira&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" />
